@@ -549,7 +549,7 @@ const Login = () => {
       </div>
 
       <div className="footers">
-        <p className="legal-text">ALL RIGHTS RESERVED © DINESH KARTHIK ALLA</p>
+        <p className="legal-text">ALL RIGHTS RESERVED © onlinegrocery </p>
       </div>
     </div>
   );
