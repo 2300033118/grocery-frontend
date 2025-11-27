@@ -35,7 +35,7 @@ export default function About() {
     </div>
     <div className="footer">
         <p className="legal-text">
-              ALL RIGHTS ARE UNDER RESERVED © DINESH KARTHIK ALLA
+              ALL RIGHTS ARE UNDER RESERVED © Online grocery
             </p>
       </div>
 
